@@ -14,7 +14,7 @@
     "cheerio-tableparser": "^1.0.1",
     "chromedriver": "^78.0.1",
     "figlet": "^1.2.4",
-    "got": "^10.0.4",
+    "got": "^11.8.5",
     "jsonframe-cheerio": "^3.0.1",
     "selenium-webdriver": "^4.0.0-alpha.5"
   }
